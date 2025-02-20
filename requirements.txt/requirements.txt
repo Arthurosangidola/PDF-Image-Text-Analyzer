@@ -1,0 +1,13 @@
+pymupdf
+pytesseract
+Pillow
+numpy
+networkx
+nltk
+scipy
+transformers
+torch
+openai
+
+Cara penggunaannya:
+pip install -r requirements.txt
