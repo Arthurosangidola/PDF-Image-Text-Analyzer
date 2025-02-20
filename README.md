@@ -12,17 +12,3 @@ This project automates text extraction from PDFs and images (JPG, PNG, etc.), pr
 ✅ Question Answering (QnA) using BERT and OpenAI GPT-4o
 ✅ Multi-format support (PDF, JPG, PNG)
 ✅ Flexible AI model selection (Local BERT vs. GPT-4o for QnA)
-
-📂 OCR-Summarization-QnA
-│── 📂 src/                  # Main source code
-│   ├── main.py              # Main script to run extraction & QnA
-│   ├── ocr.py               # Module for reading text from images/PDF
-│   ├── summarization.py     # Module for text summarization
-│   ├── qna.py               # Module for QnA (BERT & GPT-4o)
-│   ├── config.py            # API Key & settings configuration
-│── 📂 data/                 # Example files (PDF, images)
-│── 📂 docs/                 # Documentation files
-│── README.md                # Project documentation
-│── requirements.txt         # Dependencies list
-│── .gitignore               # Files to ignore in Git
-│── LICENSE                  # Project license
